@@ -26,11 +26,19 @@
 
 🇰🇷 이 계정에는 다음과 같은 학교 프로젝트들이 있습니다:
 - 📝 과제 및 실습 프로젝트
+  - https://github.com/taejinchoi-cbnu/CBNU-25-1-OSWSW
+  - https://github.com/taejinchoi-cbnu/CBNU-25-1-OS
 - 👥 팀 프로젝트
+  - https://github.com/taejinchoi-cbnu/NoTI
+  - https://github.com/taejinchoi-cbnu/StudyBuddy
 
 🇺🇸 This account contains:
 - 📝 Assignments and Lab Projects
+  - https://github.com/taejinchoi-cbnu/CBNU-25-1-OSWSW
+  - https://github.com/taejinchoi-cbnu/CBNU-25-1-OS
 - 👥 Team Projects
+  - https://github.com/taejinchoi-cbnu/NoTI
+  - https://github.com/taejinchoi-cbnu/StudyBuddy
 
 ## 📊 GitHub Stats | 깃허브 통계
 
