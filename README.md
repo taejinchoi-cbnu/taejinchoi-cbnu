@@ -1,16 +1,66 @@
-## Hi there 👋
+# 충북대학교 소프트웨어학부 | CBNU Software
 
-<!--
-**taejinchoi-cbnu/taejinchoi-cbnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://www.cbnu.ac.kr/resource/site/wwwcbnu/images/common/logo.png" alt="CBNU Logo" width="200">
+  
+  <br><br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=CBNU+Software+Student;Academic+Projects+Repository" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## 👨‍🎓 Profile | 프로필
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇰🇷 **Korean**  
+**최태진 (TaeJin Choi)**  
+- 🎓 충북대학교 소프트웨어학부 3학년
+- 📅 2027년 2월 졸업 예정
+- 💻 JavaScript 풀스택 개발 학습중
+
+🇺🇸 **English**  
+**TaeJin Choi**  
+- 🎓 3rd Year, Software Major at CBNU
+- 📅 Expected Graduation: February 2027
+- 💻 Learning JavaScript Full-Stack Development
+
+## 📚 Academic Projects | 학업 프로젝트
+
+🇰🇷 이 계정에는 다음과 같은 학교 프로젝트들이 있습니다:
+- 📝 과제 및 실습 프로젝트
+- 👥 팀 프로젝트
+
+🇺🇸 This account contains:
+- 📝 Assignments and Lab Projects
+- 👥 Team Projects
+
+## 🛠️ Tech Stack | 기술 스택
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📊 GitHub Stats | 깃허브 통계
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taejinchoi-cbnu&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taejinchoi-cbnu&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</div>
+
+## 🔗 Links | 링크
+
+<div align="center">
+
+[![Personal GitHub](https://img.shields.io/badge/🏠_Personal_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaeTae-01)
+[![Tech Blog](https://img.shields.io/badge/📝_Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@xowls000)
+
+</div>
+
+---
+
+<div align="center">
+  
+  🇰🇷 **📌 개인 프로젝트와 더 자세한 정보는 [개인 계정](https://github.com/TaeTae-01)에서 확인해주세요!**  
+  🇺🇸 **📌 For personal projects and more details, please visit my [personal account](https://github.com/TaeTae-01)!**
+  
+</div>
