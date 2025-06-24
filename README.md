@@ -1,7 +1,7 @@
 # 충북대학교 소프트웨어학부 | CBNU Software
 
 <div align="center">
-  <img src="https://www.cbnu.ac.kr/resource/site/wwwcbnu/images/common/logo.png" alt="CBNU Logo" width="200">
+  <img src="./21.%20로고타입_가로%20A_국영문.png" alt="CBNU Logo" width="300">
   
   <br><br>
   
