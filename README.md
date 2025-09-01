@@ -1,4 +1,4 @@
-# 👨‍🎓 Profile | 프로필
+# Profile
 
 **최태진 (TaeJin Choi)**  
 - 🎓 충북대학교 소프트웨어학부 3학년 재학중
