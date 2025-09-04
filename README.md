@@ -18,14 +18,32 @@
 - [**Algorithm Study**](https://github.com/taejinchoi-cbnu/AlgorithmStudy) - 알고리즘 문제 풀이
 - [**TypeScript Study**](https://github.com/taejinchoi-cbnu/TypeScriptStudy) - TypeScript 학습
 
+## 🏆 Problem Solving
+
+<div align="center">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xowls000)](https://www.acmicpc.net/user/xowls000)
+  
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taejinchoi-cbnu&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taejinchoi-cbnu&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TaeTae-01&show_icons=true&theme=tokyonight&cache_seconds=3600" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeTae-01&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=3600" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=TaeTae-01&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaeTae-01&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
 </div>
 
 ## 🔗 Links
+
+더 자세한 정보는 개인 깃허브와 기술 블로그를 확인해주세요!
 
 <div align="center">
   
