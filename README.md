@@ -11,9 +11,9 @@
 - [**Algorithm 2025-2**](https://github.com/taejinchoi-cbnu/CBNU-25-2-Algorithm) - 알고리즘
 
 ### 🤝 Team Projects
-- [**NoTI**](https://github.com/taejinchoi-cbnu/NoTI) - 팀 프로젝트
-- [**StudyBuddy**](https://github.com/taejinchoi-cbnu/StudyBuddy) - 팀 프로젝트
-- [**오픈소스개발프로젝트**](https://github.com/taejinchoi-cbnu/CBNU-25-2-OpenSource-Dev-Project) - 팀 프로젝트
+- [**NoTI**](https://github.com/taejinchoi-cbnu/NoTI) - 오픈소스전문프로젝트
+- [**StudyBuddy**](https://github.com/taejinchoi-cbnu/StudyBuddy) - 오픈소스웹소프트웨어
+- [**오픈소스개발프로젝트**](https://github.com/taejinchoi-cbnu/CBNU-25-2-OpenSource-Dev-Project) - 오픈소스개발프로젝트
 
 ### 💡 Personal Study
 - [**Algorithm Study**](https://github.com/taejinchoi-cbnu/AlgorithmStudy) - 알고리즘 문제 풀이
