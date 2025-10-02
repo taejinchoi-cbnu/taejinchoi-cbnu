@@ -29,8 +29,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaeTae-01&show_icons=true&theme=tokyonight&cache_seconds=3600" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeTae-01&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=3600" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taejinchoi-cbnu&show_icons=true&theme=tokyonight&cache_seconds=3600" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taejinchoi-cbnu&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=3600" height="180" />
 </div>
 
 <div align="center">
@@ -38,12 +38,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TaeTae-01&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
-</div>
-
-## 🔗 Links
-
-더 자세한 정보는 개인 깃허브와 기술 블로그를 확인해주세요!
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taejinchoi-cbnu&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
+<가 정보는 개인 깃허브와 기술 블로그를 확인해주세요!
 
 <div align="center">
   
