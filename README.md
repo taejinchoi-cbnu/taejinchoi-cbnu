@@ -39,12 +39,16 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=taejinchoi-cbnu&theme=tokyo-night&area=true&hide_border=true" width="95%"/>
-<가 정보는 개인 깃허브와 기술 블로그를 확인해주세요!
+</div>
+
+## 🔗 Links
 
 <div align="center">
   
-[![Personal GitHub](https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaeTae-01)
-[![Tech Blog](https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@xowls000)
+  개인 깃허브와 기술 블로그도 운영 중 입니다. 관심있다면 방문해주세요!
+
+  [![Personal GitHub](https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaeTae-01)
+  [![Tech Blog](https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@xowls000)
 
 </div>
 
