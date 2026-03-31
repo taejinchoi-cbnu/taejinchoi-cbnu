@@ -8,6 +8,7 @@
 - [**OSWSW 2025-1**](https://github.com/taejinchoi-cbnu/CBNU-25-1-OSWSW) - 오픈소스 웹소프트웨어
 - [**OS 2025-1**](https://github.com/taejinchoi-cbnu/CBNU-25-1-OS) - 운영체제
 - [**Algorithm 2025-2**](https://github.com/taejinchoi-cbnu/CBNU-25-2-Algorithm) - 알고리즘
+- [**OOP 2026-01**](https://github.com/taejinchoi-cbnu/CBNU-26-01-object-oriented-prog) - 객체지향 프로그래밍(C++)
 
 ### 🤝 Team Projects
 - [**NoTI**](https://github.com/taejinchoi-cbnu/NoTI) - 오픈소스전문프로젝트
