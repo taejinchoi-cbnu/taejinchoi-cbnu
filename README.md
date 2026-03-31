@@ -1,6 +1,6 @@
 # 최태진 | TaeJin Choi
 
-충북대학교 소프트웨어학부 3학년 재학중
+충북대학교 소프트웨어학부 4학년 재학중
 
 ## 📚 Study & Projects
 
@@ -45,9 +45,8 @@
 
 <div align="center">
   
-  개인 깃허브와 기술 블로그도 운영 중 입니다. 관심있다면 방문해주세요!
+  기술 블로그도 운영 중 입니다. 관심있다면 방문해주세요!
 
-  [![Personal GitHub](https://img.shields.io/badge/Personal_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaeTae-01)
   [![Tech Blog](https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@xowls000)
 
 </div>
