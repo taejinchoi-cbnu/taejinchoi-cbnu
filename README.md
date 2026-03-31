@@ -1,6 +1,7 @@
 # 최태진 | TaeJin Choi
 
-충북대학교 소프트웨어학부 4학년 재학중
+충북대학교 소프트웨어학부 4학년 재학중 <br>
+Senior Student at Chungbuk National University | Computer Science
 
 ## 📚 Study & Projects
 
@@ -46,9 +47,8 @@
 
 <div align="center">
   
-  기술 블로그도 운영 중 입니다. 관심있다면 방문해주세요!
-
-  [![Tech Blog](https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@xowls000)
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@xowls000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taejin-choi-263a38149/)
 
 </div>
 
