@@ -20,14 +20,6 @@ Senior Student at Chungbuk National University | Computer Science
 - [**Algorithm Study**](https://github.com/taejinchoi-cbnu/AlgorithmStudy) - 알고리즘 문제 풀이
 - [**TypeScript Study**](https://github.com/taejinchoi-cbnu/TypeScriptStudy) - TypeScript 학습
 
-## 🏆 Problem Solving
-
-<div align="center">
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xowls000)](https://www.acmicpc.net/user/xowls000)
-  
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
