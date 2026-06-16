@@ -2,15 +2,6 @@
 
 Senior Student at Chungbuk National University | Computer Science
 
-## Licenses & certifications
-
-- 한국산업인력공단(HRD Korea) - 정보처리기사 (Credential ID 26201120284E)
-
-## Honors & awards
-
-- KORFIT Award (2nd Place) - Global Innovators' IT Lab
-  - Issued by KORFIT & Chungbuk Pro Maker Center · Sep 2025
- 
 # Activity
 
 ## Extracurricular Activities
@@ -31,6 +22,15 @@ Senior Student at Chungbuk National University | Computer Science
 - [**NoTI**](https://github.com/taejinchoi-cbnu/NoTI) - AI-powered note sharing service
 - [**StudyBuddy**](https://github.com/taejinchoi-cbnu/StudyBuddy) - Collaborative study management web application
 - [**What's your GPA**](https://github.com/taejinchoi-cbnu/CBNU-25-2-OpenSource-Dev-Project) - Student academic dashboard for GPA visualization and graduation requirement analysis
+
+## Licenses
+
+- 한국산업인력공단(HRD Korea) - 정보처리기사 (Credential ID 26201120284E)
+
+## Honors & awards
+
+- KORFIT Award (2nd Place) - Global Innovators' IT Lab
+  - Issued by KORFIT & Chungbuk Pro Maker Center · Sep 2025
 
 ## Links
 
